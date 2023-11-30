@@ -17,4 +17,11 @@ This project utilized jupyter notebooks for coding in python, pandas for making 
 ```bash
 pip install notebook pandas matplotlib
 ```
-## Findings
+## Results
+![first graph](one.png)
+![second graph](two.png)
+![third graph](three.png)
+![fourth graph](four.png)
+![fifth graph](five.png)
+![sixth graph](six.png)
+![seventh graph](seven.png)
