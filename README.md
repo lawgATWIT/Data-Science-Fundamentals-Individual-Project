@@ -6,7 +6,7 @@ The topic for this project is researching the adoption of home internet and cell
 ## Questions
 1. What are the Countries with the highest average internet adoption rates from 1980 to 2020
 2. What countries have the highest percent of total internet users 
-3. What is the Correlation between a population acquiring a Cell service Subscriptions and Internet Adoption rates
+3. What is the Correlation between a country's population acquiring a Cell service Subscriptions and Internet Adoption rates
 
 ## Methods
 
