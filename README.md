@@ -18,10 +18,10 @@ This project utilized jupyter notebooks for coding in python, pandas for making 
 pip install notebook pandas matplotlib
 ```
 ## Results
-![first graph](one.png)
-![second graph](two.png)
-![third graph](three.png)
-![fourth graph](four.png)
-![fifth graph](five.png)
-![sixth graph](six.png)
-![seventh graph](seven.png)
+![first graph](images/one.png)
+![second graph](images/two.png)
+![third graph](images/three.png)
+![fourth graph](images/four.png)
+![fifth graph](images/five.png)
+![sixth graph](images/six.png)
+![seventh graph](images/seven.png)
