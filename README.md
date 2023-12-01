@@ -5,7 +5,7 @@
 ## Selection of Data
 The topic for this project is researching the adoption of home internet and cell service from 1980-2020 in various countries. This data set is taken from Kaggle and includes all of the data spanning this 40 year timescale, as well as including all UN recognized countries for each year in the dataset. The goal of this project and it's guiding questions is to determine when internet adoption was most prevalent, what country had the highest growth in internet adoption and whether there is any relation between the rise in internet and cell service adoption on  global scale.
 
-## Questions
+### Questions
 1. What are the Countries with the highest average internet adoption rates from 1980 to 2020
 2. What countries have the highest percent of total internet users 
 3. What is the Correlation between a country's population acquiring a Cell service Subscriptions and Internet Adoption rates
@@ -29,5 +29,7 @@ pip install -U notebook pandas matplotlib scikit-learn
 ![seventh graph](graphs/seven.png)
 
 # Discussion
+
+# Summary
 
 # References
