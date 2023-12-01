@@ -15,7 +15,7 @@ My approach was to provide a variety of visualizations for my topic, by choosing
 
 This project utilized jupyter notebooks for coding in python, pandas for making data subsets and matplotlib for creating data visualizations. These modules are required to run this program locally (in addition to python) and can be installed with the command below.
 ```bash
-pip install -U notebook pandas matplotlib scikit-learn
+pip install -U notebook pandas matplotlib scikit-learn numpy
 ```
 
 
