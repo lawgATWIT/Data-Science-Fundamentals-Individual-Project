@@ -20,13 +20,13 @@ pip install -U notebook pandas matplotlib scikit-learn
 
 
 ## Results
-![first graph](images/one.png)
-![second graph](images/two.png)
-![third graph](images/three.png)
-![fourth graph](images/four.png)
-![fifth graph](images/five.png)
-![sixth graph](images/six.png)
-![seventh graph](images/seven.png)
+![first graph](graphs/one.png)
+![second graph](graphs/two.png)
+![third graph](graphs/three.png)
+![fourth graph](graphs/four.png)
+![fifth graph](graphs/five.png)
+![sixth graph](graphs/six.png)
+![seventh graph](graphs/seven.png)
 
 # Discussion
 
