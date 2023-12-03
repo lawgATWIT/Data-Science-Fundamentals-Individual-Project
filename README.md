@@ -49,14 +49,8 @@ Although these results seemed initially surprising, it is understandable that sm
 
 The results for the second portion of analysis showing current internet adoption market share, favored larger countries, due to the prevalence of present day internet connectivity. Countries with the highest populations including China, India, and the United States. Lesser developed countries with similar populations, such as Nigeria and Ethiopia, are not represented on these charts due to lack of development and internet structure. This falls in line with the previous finding that population density, wealth, and development are directly correlated with internet adoption, not just a single isolated variable. A linear regression model was then used to find coefficients for the data, the output was 0.416 for cellular subscription per 10 people and 0.416 for the number of internet users, suggesting that an it is projected tht if the data for cellular subscriptions is to increase at a rate of 1 unit, the project rate of increase would be the 0.416 value.
 
-
-
 Using a scatter plot to identify the trends of the top 10 countries with the highest percentage of internet users in relation to the adoption of cellular subscriptions shows a clear positive correlation without before using in depth mathematical analysis. This is due to both technologies surging in popularity around the same period of time, and only advancing in their respective capabilities and reach. Look at both models it is evident that both have been on a constant rise over the past few decades, and will inevitably plateau as they reach an almost complete market share. Scikit can then be utilized to legitimize these predictions using predictive model that showcases as consistent rise, in addition to the training predictions used to arrive at these conclusions. Linear regression was then used to find a mathematical "r squared" value, a value that reflects the variability of data and outputted  a value of 0.6737199276204084. Since the values of r squared range from 0-1, where 1 is the highest correlation, This linear regression model echoes the sentiment of the heatmap that these two variables have significant degree of correlation that is not absolute.
 
-
-
-# Summary
-Being able to analyze this data using linear regression techniques is a very efficient way to project future points and summarize past trends of data.
 
 # References
 Raut, A. (2022). Internet Users, Version 1. Retrieved 2023 from https://www.kaggle.com/datasets/ashishraut64/internet-users
