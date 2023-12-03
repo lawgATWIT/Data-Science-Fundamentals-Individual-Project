@@ -32,7 +32,6 @@ pip install -U notebook pandas matplotlib scikit-learn numpy
 ### What is the Correlation between a country's population acquiring a Cell service Subscriptions and Internet Adoption rates
 <img src="graphs/four.png" alt="drawing" width="675" height="450"/>
 <img src="graphs/six.png" alt="drawing" width="675" height="450"/>
-<img src="graphs/seven.png" alt="drawing" width="675" height="450"/>
 <img src="graphs/ten.png" alt="drawing" width="675" height="450"/>
 
 
