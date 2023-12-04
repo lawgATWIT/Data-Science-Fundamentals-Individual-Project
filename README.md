@@ -32,14 +32,19 @@ pip install -U notebook pandas matplotlib scikit-learn numpy
 
 
 
+
 ### What countries have the highest percent of total internet users 
 <img src="graphs/three.png" alt="drawing" width="675" height="450"/>
 <img src="graphs/nine.png" alt="drawing" width="675" height="450"/>
+<img src="graphs/rsquared.PNG" alt="drawing"/>
+
 
 ### What is the Correlation between a country's population acquiring a Cell service Subscriptions and Internet Adoption rates
 <img src="graphs/four.png" alt="drawing" width="675" height="450"/>
 <img src="graphs/six.png" alt="drawing" width="675" height="450"/>
 <img src="graphs/ten.png" alt="drawing" width="675" height="450"/>
+<img src="graphs/coefficent.PNG" alt="drawing"/>
+
 
 
 
