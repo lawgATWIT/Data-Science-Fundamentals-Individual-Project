@@ -28,8 +28,7 @@ pip install -U notebook pandas matplotlib scikit-learn numpy
 <img src="graphs/two.png" alt="drawing" width="675" height="450"/>
 <img src="graphs/eight.png" alt="drawing" width="675" height="450"/>
 <img src="graphs/five.png" alt="drawing" width="675" height="450"/>
-
-
+<img src="graphs/questiononecoefficients.PNG" alt="drawing" />
 
 
 
