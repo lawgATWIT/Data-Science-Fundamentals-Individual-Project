@@ -7,7 +7,7 @@ The topic for this project is researching the adoption of home internet and cell
 This data set is taken from Kaggle and includes all of the data spanning this 40 year timescale, as well as including all UN recognized countries for each year in the dataset. The goal of this project and it's guiding questions is to determine when internet adoption was most prevalent, what country had the highest growth in internet adoption and whether there is any relation between the rise in internet and cell service adoption on  global scale. To clean the data, a few data points that did not relate to countries needed to be removed to allow visualizations and linear regression models to only contain relevant information. The data points that referenced regions rather than countries had to be removed, not only for redundance and relevance purposed, but also because they were outlier points that took up to much space on graphs and altered the accuracy of models. The following code was used to remove such entries from the data set.
 
 ```python
-df = df[(df["Entity"] != "World") & (df["Entity"] != "North America")]
+dataset = dataset[(dataset["Entity"] != "World") & (dataset["Entity"] != "North America")]
 ```
 
 
