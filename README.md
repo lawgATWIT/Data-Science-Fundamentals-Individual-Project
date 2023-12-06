@@ -30,11 +30,11 @@ pip install -U notebook pandas matplotlib scikit-learn numpy
 ## Results
 
 ###  What are the Countries with the highest average internet adoption rates from 1980 to 2020
-<img src="graphs/one.png" alt="drawing" width="675" height="450"/>
+<img src="graphs/one.png" alt="drawing"/>
 
 * This graphs shows the top 10 countries with the highest adoption rate in bar format. Countries with the highest average adoption rate through the years are on the left side, with lower averages as the trend of the graph descends.
 
-<img src="graphs/eight.png" alt="drawing" width="675" height="450"/>
+<img src="graphs/eight.png" alt="drawing"/>
 
 * This graph shows the internet adoption rate percent data from 1980 to 2020. Future possible project that utilized machine learning (scikit-learn), are shown on the graph in red, as well as the final future projection that was calculated, which is shown in green. The red lines are simply regression model training predictions, and do not represent actual results. The future projection are a slight increase in percentage over the next decade that is in line with the apparent plateau trend of the data.
 
@@ -44,22 +44,22 @@ pip install -U notebook pandas matplotlib scikit-learn numpy
 
 
 ### What countries have the highest percent of total internet users 
-<img src="graphs/three.png" alt="drawing" width="675" height="450"/>
+<img src="graphs/three.png" alt="drawing"/>
 
 * This is a pie chart representing a snapshot of countries with the highest portion of internet users. The leading countries include China, The United States, and India. These countries make up over half of the chart due to their high populations.
 
 
 
 ### What is the Correlation between a country's population acquiring a Cell service Subscriptions and Internet Adoption rates
-<img src="graphs/four.png" alt="drawing" width="675" height="450"/>
+<img src="graphs/four.png" alt="drawing"/>
 
 * This is graph is a correlation map that shows a dark red for variables that have higher correlation, and a dark blue for lower correlation, with lighter blue being more correlation. It can be concluded from this graph that number of internet users and cellular subscriptions have moderate but not definitive correlation. It also shows that percentage of internet users is partially correlated with percentage of internet users which is expected.
 
-<img src="graphs/six.png" alt="drawing" width="675" height="450"/>
+<img src="graphs/six.png" alt="drawing"/>
 
 * This is a scatter plot that shows the correlation between cellular adoption rates and the percentage of people acceding the internet. Each country has multiple data points, one for each that are responsible for the positive trend of the data, as the rates tend to increase each year.
 
-<img src="graphs/ten.png" alt="drawing" width="675" height="450"/>
+<img src="graphs/ten.png" alt="drawing"/>
 
 * This is a visual linear regression model that identifies the trends of the data presented with red lines, which in this case analyzes internet adoption rates and cellular subscriptions. It shows that the variables are somewhat correlated, and that this correlation will remain constant in the future.
 
