@@ -48,8 +48,6 @@ This is a non visualized linear regression model that calculated the next decade
 
 This is a pie chart representing a snapshot of countries with the highest portion of internet users. The leading countries include China, The United States, and India. These countries make up over half of the chart due to their high populations.
 
-<img src="graphs/nine.png" alt="drawing" width="675" height="450"/>
-<img src="graphs/rsquared.PNG" alt="drawing"/>
 
 
 ### What is the Correlation between a country's population acquiring a Cell service Subscriptions and Internet Adoption rates
