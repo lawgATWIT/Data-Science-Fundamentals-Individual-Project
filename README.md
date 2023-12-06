@@ -32,7 +32,7 @@ pip install -U notebook pandas matplotlib scikit-learn numpy
 ###  What are the Countries with the highest average internet adoption rates from 1980 to 2020
 <img src="graphs/one.png" alt="drawing" width="675" height="450"/>
 
-this graphs shows the top 10 countries with the highest adoption rate in bar format. Countries with the highest average adoption rate through the years are on the left side, with lower averages as the trend of the graph descends.
+This graphs shows the top 10 countries with the highest adoption rate in bar format. Countries with the highest average adoption rate through the years are on the left side, with lower averages as the trend of the graph descends.
 
 <img src="graphs/eight.png" alt="drawing" width="675" height="450"/>
 
