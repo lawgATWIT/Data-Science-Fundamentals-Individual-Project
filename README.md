@@ -16,7 +16,7 @@ dataset = dataset[(dataset["Entity"] != "World") & (dataset["Entity"] != "North 
 My approach was to provide a variety of visualizations for my topic, by choosing visualizations that would make conclusions stand out more based on the culmination of the data. For many of the questions I chose, I decided to create multiple visualizations to support conclusions, and narrow the scope of my data to provide more legible results that can be used to more appropriately address the questions posed. The most notable graphs used for this project include bar graphs to allow comparison between small and large data points, pie charts to show percentages relative to a total, scatter/line plots to show data trends over periods of time, and a heatmap to show the correlation between two variables relative to other correlations using a corresponding color key.
 
 ### Tools
-* Jupyter: used as a python coding environment
+* Jupyter Notebook: used as a python coding environment
 * Pandas: used for making data subsets that can be used to compare and contrast trends to analyze correlation
 * Matplotlib: used to creating data visualizations, that allows for a predictive pattern of future data to be calculated. 
 * scikit-learn: A machine learning library for python used for producing linear regression models for portions of the dataset. 
