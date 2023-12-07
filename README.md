@@ -49,7 +49,7 @@ This is a non visualized linear regression model that calculated the next decade
 This is a pie chart representing a snapshot of countries with the highest portion of internet users. The leading countries include China, The United States, and India. These countries make up over half of the chart due to their high populations.
 
 <img src="graphs/iceland.png" alt="drawing"/>
-This is linear regression model used to determine the country with the highest rate of internet adoption over the next ten years of data. The model chose iceland, and the rate of change determined by machine learning is depicted by the red/green line on the visualization, red being the trend calculation based on current data, and the green being predicted data.
+This is linear regression model used to determine the country with the highest rate of internet adoption over the next ten years of data. The model chose iceland, and the rate of change determined by machine learning is depicted by the red/green lines on the visualization, red being the trend calculation based on current data, and the green being predicted data.
 
 <img src="graphs/adoptionrate.PNG" alt="drawing"/>
 
