@@ -71,7 +71,7 @@ This is a visual linear regression model that identifies the trends of the data 
 
 <img src="graphs/rsquared.PNG" alt="drawing"/>
 
-This is the R-Squared calculation of the data that determines the variability of the data provided. This is calculated using linear regression and the result is a number between 0 and 1, 1 being the highest commonality. In this case the result was 0.6737199276204084, which means for every 1 unit increase, the other variable changes 0.42 units, meaning that some significant correlation is present between the two variables.
+This is the R-Squared calculation of the data that determines the variability of the data provided. This is calculated using linear regression and the result is a number between 0 and 1, 1 being the highest commonality. In this case the result was 0.6737199276204084, which means for every 1 unit increase, the other variable changes 0.6737199276204084 units, meaning that some significant correlation is present between the two variables.
 
 
 
