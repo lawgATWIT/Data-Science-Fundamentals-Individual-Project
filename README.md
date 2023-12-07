@@ -36,7 +36,7 @@ This graphs shows the top 10 countries with the highest adoption rate in bar for
 
 <img src="graphs/eight.png" alt="drawing"/>
 
-This graph shows the internet adoption rate percent data from 1980 to 2020. Future possible project that utilized machine learning (scikit-learn), are shown on the graph in red, as well as the final future projection that was calculated, which is shown in green. The red lines are simply regression model training predictions, and do not represent actual results. The future projection are a slight increase in percentage over the next decade that is in line with the apparent plateau trend of the data.
+This graph shows the internet adoption rate percent data from 1980 to 2020. Future possible project that utilized machine learning (scikit-learn), are shown on the graph in red, as well as the final future projection that was calculated, which is shown in green. The red lines are simply regression model training predictions, and do not represent actual results. The future projection are a slight increase in percentage over the next decade that is in line with the apparent plateau shaped trend of the data.
 
 <img src="graphs/questiononecoefficients.PNG" alt="drawing" />
 
