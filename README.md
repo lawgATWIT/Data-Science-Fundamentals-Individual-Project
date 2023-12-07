@@ -49,13 +49,11 @@ This is a non visualized linear regression model that calculated the next decade
 This is a pie chart representing a snapshot of countries with the highest portion of internet users. The leading countries include China, The United States, and India. These countries make up over half of the chart due to their high populations.
 
 <img src="graphs/iceland.png" alt="drawing"/>
+This is linear regression model used to determine the country with the highest rate of internet adoption over the next ten years of data. The model chose iceland, and the rate of change determined by machine learning is depicted by the red/green line on the visualization.
 
 <img src="graphs/adoptionrate.PNG" alt="drawing"/>
 
-
-
-
-
+The rate of change for the country country with the highest predicted internet adoption was also calculated adn resulted in a projected 151.83% increase over the next ten years, which is a very significant change, relative to the results of other nations. 
 
 
 ### What is the Correlation between a country's population acquiring a Cell service Subscriptions and Internet Adoption rates
@@ -84,12 +82,7 @@ Although these results seemed initially surprising, it is understandable that sm
 
 The results for the second portion of the analysis shows current internet adoption market share, favored larger countries, due to the prevalence of present day internet connectivity. Countries with the highest populations include China, India, and the United States. Lesser developed countries with similar populations, such as Nigeria and Ethiopia, are not represented on these charts due to lack of development and internet structure. This falls in line with the previous finding that population density, wealth, and development are directly correlated with internet adoption, not just a single isolated variable. A linear regression model was then used to determine what nation would likely have the highest rate of adoption within the near future, and the the nation of iceland was found to have an adoption rate of 151.83% over the next decade. This significant surge is likely due to the recent adoption of newer internet infrastructure in the region that has much room for improvement in the rural landscape, that will have more access to internet due to the availability and convenience of significant modern advancements in the networking field that are ready for deployment.
 
-
-
-
-Using a scatter plot to identify the trends of the top 10 countries with the highest percentage of internet users in relation to the adoption of cellular subscriptions shows a clear positive correlation without using in depth mathematical analysis. This is due to both technologies surging in popularity around the same period of time, and only advancing in their respective capabilities and reach. Look at both models it is evident that both have been on a constant rise over the past few decades, and will inevitably plateau as they reach an almost complete market share. Scikit can then be utilized to legitimize these predictions using a predictive model that showcases a consistent rise, in addition to the training predictions used to arrive at these conclusions. Linear regression was then used to find a mathematical "r squared" value, a value that reflects the variability of data and outputted  a value of 0.6737199276204084. Since the values of r squared range from 0-1, where 1 is the highest correlation, this linear regression model echoes the sentiment of the heatmap that these two variables have a significant degree of correlation that is not absolute.
-
-A linear regression model was then used to find coefficients for the data. The output was 0.416 for cellular subscription per 10 people and 0.416 for the number of internet users, suggesting that it is projected that if the data for cellular subscriptions was to increase at a rate of 1 unit, the project rate of increase would be the 0.416 value.
+Using a scatter plot to identify the trends of the top 10 countries with the highest percentage of internet users in relation to the adoption of cellular subscriptions shows a clear positive correlation without using in depth mathematical analysis. This is due to both technologies surging in popularity around the same period of time, and only advancing in their respective capabilities and reach. Look at both models it is evident that both have been on a constant rise over the past few decades, and will inevitably plateau as they reach an almost complete market share. Scikit can then be utilized to legitimize these predictions using a predictive model that showcases a consistent rise, in addition to the training predictions used to arrive at these conclusions. Linear regression was then used to find a mathematical "r squared" value, a value that reflects the variability of data and outputted  a value of 0.6737199276204084. Since the values of r squared range from 0-1, where 1 is the highest correlation, this linear regression model echoes the sentiment of the heatmap that these two variables have a significant degree of correlation that is not absolute. A linear regression model was then used to find coefficients for the data. The output was 0.416 for cellular subscription per 10 people and 0.416 for the percentage of internet users (not number), suggesting that it is projected that if the data for cellular subscriptions was to increase at a rate of 1 unit, the project rate of increase would be the 0.416 value, summarizing a less significant, but still relevant correlation.
 
 
 
