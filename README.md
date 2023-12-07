@@ -43,10 +43,18 @@ This graph shows the internet adoption rate percent data from 1980 to 2020. Futu
 This is a non visualized linear regression model that calculated the next decade of data points using machine learning. The data generated shows a small but consistent increase in percentage for the data points in future years.
 
 
-### What countries have the highest percent of total internet users 
+### What countries have the highest percent of total internet users, and what country will have the largest increase in internet users in the near future.
 <img src="graphs/three.png" alt="drawing"/>
 
 This is a pie chart representing a snapshot of countries with the highest portion of internet users. The leading countries include China, The United States, and India. These countries make up over half of the chart due to their high populations.
+
+<img src="graphs/iceland.png" alt="drawing"/>
+
+<img src="graphs/adoptionrate.PNG" alt="drawing"/>
+
+
+
+
 
 
 
@@ -74,9 +82,15 @@ This is the R-Squared calculation of the data that determines the variability of
 # Discussion
 Although these results seemed initially surprising, it is understandable that smaller European nations were favored as the nations with the highest internet adoption rates, due to their advanced infrastructure and less spread-out populations. In larger advanced nations such as the United States, or China, there are large portions of the population that live in more rural areas, while the advanced cities are likely more responsible for growing internet adoption statistic, if the data set were exclusively focused on large metropolitan areas, the data would undoubtedly skew towards larger developed nations. Smaller countries tend to be more dense, allowing an easier adoption of the internet, provided they have the wealth and development. South Korea is notorious for its development in digital infrastructure, so it is no surprise that it is within these results, due to its density, wealth, and technological development.
 
-The results for the second portion of the analysis shows current internet adoption market share, favored larger countries, due to the prevalence of present day internet connectivity. Countries with the highest populations include China, India, and the United States. Lesser developed countries with similar populations, such as Nigeria and Ethiopia, are not represented on these charts due to lack of development and internet structure. This falls in line with the previous finding that population density, wealth, and development are directly correlated with internet adoption, not just a single isolated variable. A linear regression model was then used to find coefficients for the data. The output was 0.416 for cellular subscription per 10 people and 0.416 for the number of internet users, suggesting that it is projected that if the data for cellular subscriptions was to increase at a rate of 1 unit, the project rate of increase would be the 0.416 value.
+The results for the second portion of the analysis shows current internet adoption market share, favored larger countries, due to the prevalence of present day internet connectivity. Countries with the highest populations include China, India, and the United States. Lesser developed countries with similar populations, such as Nigeria and Ethiopia, are not represented on these charts due to lack of development and internet structure. This falls in line with the previous finding that population density, wealth, and development are directly correlated with internet adoption, not just a single isolated variable. A linear regression model was then used to determine what nation would likely have the highest rate of adoption within the near future, and the the nation of iceland was found to have an adoption rate of 151.83% over the next decade. This significant surge is likely due to the recent adoption of newer internet infrastructure in the region that has much room for improvement in the rural landscape, that will have more access to internet due to the availability and convenience of significant modern advancements in the networking field that are ready for deployment.
+
+
+
 
 Using a scatter plot to identify the trends of the top 10 countries with the highest percentage of internet users in relation to the adoption of cellular subscriptions shows a clear positive correlation without using in depth mathematical analysis. This is due to both technologies surging in popularity around the same period of time, and only advancing in their respective capabilities and reach. Look at both models it is evident that both have been on a constant rise over the past few decades, and will inevitably plateau as they reach an almost complete market share. Scikit can then be utilized to legitimize these predictions using a predictive model that showcases a consistent rise, in addition to the training predictions used to arrive at these conclusions. Linear regression was then used to find a mathematical "r squared" value, a value that reflects the variability of data and outputted  a value of 0.6737199276204084. Since the values of r squared range from 0-1, where 1 is the highest correlation, this linear regression model echoes the sentiment of the heatmap that these two variables have a significant degree of correlation that is not absolute.
+
+A linear regression model was then used to find coefficients for the data. The output was 0.416 for cellular subscription per 10 people and 0.416 for the number of internet users, suggesting that it is projected that if the data for cellular subscriptions was to increase at a rate of 1 unit, the project rate of increase would be the 0.416 value.
+
 
 
 # References
